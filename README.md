@@ -11,3 +11,5 @@ I have included a second Snakefile for an original dataset that I collected in l
 I have included a rule in the Snakefile for annotation of the VCF using SNPeff.
 
 I used the sample.vcf provided in prompt 2 to work on some downstream data analysis, filtering, etc. using python and scikit-allel.
+
+New skills learned: In the past, I have worked with pre-processed multiple sequence alignment files. This was a fantastic learning experience to build the VCFs needed for downstream analysis. Also took this opportunity to learn about and work with Snakemake for the first time, and implemented the pipeline successfully. Thank you!
